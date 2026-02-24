@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deborah Ketema</h1>
-<h3 align="center">I build scalable web & mobile applications that help startups grow 🚀</h3>
+<h3 align="center">I build scalable web & mobile applications for startups and growing businesses 🚀</h3>
 
 <p align="center">
 💻 Full-Stack Developer | 📱 React Native Developer
